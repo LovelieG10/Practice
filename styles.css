@@ -2,6 +2,10 @@ header h1 {
     font-style: san-serif;
 }
 
+body {
+
+}
+
 .container {
     background-color: aliceblue; 
     column-count: 4;
