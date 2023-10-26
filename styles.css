@@ -5,7 +5,7 @@ header h1 {
 .container {
     background-color: aliceblue; 
     column-count: 4;
-    column-gap: 90px;
+    justify-content: space-between;
 }
 
 h3 {
