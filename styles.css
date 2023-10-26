@@ -10,6 +10,7 @@ body {
     background-color: aliceblue; 
     column-count: 4;
     justify-content: space-between;
+    text-align: center;
 }
 
 h3 {
